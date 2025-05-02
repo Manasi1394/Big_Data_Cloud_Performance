@@ -58,5 +58,10 @@ Key attributes considered in evaluating the environmental impact of cloud perfor
 ![image](https://github.com/user-attachments/assets/71a5cbd0-7642-409a-9602-ae5806119b10)
 
 
+## Executive Summary
+
+In 2024, global energy consumption rose by 2.2%, exceeding the previous decade’s average growth of 1.5%. This increase has been driven by data center expansion, rising temperatures, and the growing demand for digital infrastructure. As a result, carbon dioxide concentrations reached 420 parts per million in 2023—marking a 10% rise over the past 20 years.
+
+This project explores how cloud computing environments contribute to this trend by analyzing system performance data to uncover inefficiencies in resource usage. Using predictive analytics, I identified patterns in energy consumption, and through prescriptive analytics, proposed strategies to reduce power usage and improve sustainability. The goal is to make cloud operations not only smarter but cleaner.
 
 
